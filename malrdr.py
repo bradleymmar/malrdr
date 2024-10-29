@@ -32,8 +32,8 @@ print ('\n', "====================", '\n', "====================", '\n')
   
 impAddrPos=[]
 iocDict = {}
-keytrack = 0
-
+keyTrack = 0
+impCounter = 0
 
 for entry in subj.DIRECTORY_ENTRY_IMPORT: 
 
